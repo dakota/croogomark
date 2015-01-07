@@ -1,0 +1,19 @@
+{
+	"name": "dakota/croogodown",
+	"type": "croogo-plugin",
+	"description": "A croogo plugin for using markdown for content",
+	"homepage": "http://github.com/dakota/croogodown",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Walther Lalk",
+			"homepage": "http://waltherlalk.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3",
+		"composer/installers": "*",
+	  	"croogo/croogo": ">=2.2.0",
+	  	"league/commonmark": "~0.5"
+	}
+}
