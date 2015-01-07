@@ -1,8 +1,8 @@
 {
-	"name": "dakota/croogodown",
+	"name": "dakota/croogomark",
 	"type": "croogo-plugin",
 	"description": "A croogo plugin for using markdown for content",
-	"homepage": "http://github.com/dakota/croogodown",
+	"homepage": "http://github.com/dakota/croogomark",
 	"license": "MIT",
 	"authors": [
 		{
