@@ -8,7 +8,7 @@ NB. This does not convert existing HTML nodes to Markdown!
 Installation
 ------------
 
-Install using composer by running `composer require dakota/croogodown`.
+Install using composer by running `composer require dakota/croogomark`.
 
 Usage
 -------------
